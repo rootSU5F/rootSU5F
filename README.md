@@ -1,5 +1,6 @@
 <marquee>Welcome to my GitHub profile! 🌟</marquee>
-![My Image](https://github.com/rootSU5F/rootSU5F/blob/main/8d7b0f3bda4c7651b65e39d9f8be8c72.jpg)
+<img src="https://github.com/rootSU5F/rootSU5F/blob/main/8d7b0f3bda4c7651b65e39d9f8be8c72.jpg" width="200" alt="My Image">
+
 
 # 👋 Hello, I'm Saeed!
 
