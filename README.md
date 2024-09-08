@@ -1,4 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Saeed!
+
+<marquee>Welcome to my GitHub profile! 🌟</marquee>
+# 👋 Hello, I'm Saeed!
+
+## 🧑🏻‍💻 About Me
+- 🎓 Third-year Computer Science student at KKU University
+- 💻 Full-Stack Developer (under construction)  
+- 🔐 Passionate about Cybersecurity, AI, and Software Engineering  
+- 🎯 Currently focusing on **IBM Full-Stack JavaScript Development** and **AI Certifications**
+- 🤝 Member and Admin at [Programming Club at King Khalid University]
+## 🚀 What I'm working on
+- 🧠 Exploring Artificial Intelligence to apply it to real-world projects
+- 🛠 Building skills in Python, Java, and SQL for data-driven applications
+
+## 🎯 My Interests
+- 🏍 Loving Harley bikes, especially baggers  
+- 🖋 Writing poetry (not about love ofcourse!!)
+- 📖 Always learning new technologies, especially in **AI** and **Software Engineering**
+
+## 📫 Let's connect
+- [Twitter](https://twitter.com/gzfw__)  
+- [LinkedIn](https://linkedin.com/in/saeed-al-asiri)  
 
 <!--
 **rootSU5F/rootSU5F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
