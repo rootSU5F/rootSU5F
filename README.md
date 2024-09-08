@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Saeed!
-
 <marquee>Welcome to my GitHub profile! 🌟</marquee>
 # 👋 Hello, I'm Saeed!
 
