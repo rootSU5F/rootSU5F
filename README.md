@@ -1,5 +1,5 @@
 <marquee>Welcome to my GitHub profile! 🌟</marquee> <br/><hr/>
-![Alt text]([e8ac710f155ff4be35d99fd5a195f107.jpg])
+![Alt text](e8ac710f155ff4be35d99fd5a195f107.jpg)
 
 
 # 👋 Hello, I'm Saeed!
