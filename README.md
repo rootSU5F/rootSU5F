@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula&column=3)
+
