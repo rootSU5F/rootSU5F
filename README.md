@@ -8,7 +8,7 @@
 - 🎓 Third-year Computer Science student at KKU University
 - 💻 Full-Stack Developer (under construction)  
 - 🔐 Passionate about Cybersecurity, AI, and Software Engineering  
-- 🤝 Member and Admin at [Programming Club at King Khalid University]
+- 🤝 Presedint of [Programming Club at King Khalid University]
 ## 🚀 What I'm working on
 - 🎯 Currently focusing on **IBM Full-Stack JavaScript Development** and **AI Certifications**
 - 🧠 Exploring Artificial Intelligence to apply it to real-world projects
