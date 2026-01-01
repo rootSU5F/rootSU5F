@@ -1,23 +1,88 @@
 <marquee>Welcome to my GitHub profile! 🌟</marquee> <br/><hr/>
 ![Alt text](e8ac710f155ff4be35d99fd5a195f107.jpg)
 
+# 👋 Hey, I'm Saeed
 
-# 👋 Hello, I'm Saeed!
+🎓 Final-year Computer Science student  
+🧠 AI & Backend Engineer (research-driven, production-minded)  
+🏫 President of the Programming Club @ King Khalid University  
 
-## 🧑🏻‍💻 About Me
-- 🎓 Third-year Computer Science student at KKU University
-- 💻 Full-Stack Developer (under construction)  
-- 🔐 Passionate about Cybersecurity, AI, and Software Engineering  
-- 🤝 Presedint of [Programming Club at King Khalid University]
-## 🚀 What I'm working on
-- 🎯 Currently focusing on **IBM Full-Stack JavaScript Development** and **AI Certifications**
-- 🧠 Exploring Artificial Intelligence to apply it to real-world projects
-- 🛠 Building skills in Python, Java, and SQL for data-driven applications
+My focus is on **AI, ML, Computer Vision, LLMs, and backend-heavy architectures** —
+clean code, explainable models, and real-world impact.
 
-## 🎯 My Interests
-- 🏍 Loving Harley bikes, especially baggers  
-- 🖋 Writing poetry (not about love ofcourse!!)
-- 📖 Always learning new technologies, especially in **AI** and **Software Engineering**
+I like my models interpretable, my pipelines modular,
+and my bugs reproducible.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🧠 **AI for Education** (GRADUATION PROJECT) 
+  Building systems that detect student confusion and generate adaptive learning resources using:
+  - Computer Vision
+  - Multimodal signals
+  - Interpretable ML (KANs)
+  - RAG pipelines
+
+- 🤖 **LLMs & NLP**  
+  - Retrieval-Augmented Generation (RAG)
+  - Prompt engineering & evaluation
+  - Research-oriented experimentation
+
+- 🔍 **Research + Engineering Hybrid Projects**  
+  Turning papers into code, then turning that code into something usable.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- Python (main weapon)
+- JavaScript
+- Java
+- C / C++
+- Rust (when I want to suffer productively)
+
+**AI / ML**
+- PyTorch
+- NumPy, Pandas, scikit-learn
+- Computer Vision (segmentation, detection)
+- LLMs, RAG, heuristics + ML hybrids
+
+**Backend & Tools**
+- Node.js
+- REST APIs
+- Git & GitHub
+- Linux
+- Docker (when required, not for decoration)
+
+---
+---
+
+## 🏍️ Fun Facts (Very Important)
+
+- I believe clean architecture is a lifestyle
+- I drink coffee like it’s a system dependency
+- My long-term roadmap includes fewer bugs and more Harleys
+- I love V-Twins almost as much as I love clean backend logic.
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: *(add link)*
+- ✉️ Email: *(add email)*
+- 🧠 Research / AI collabs: always open
+
+---
+
+> *"Build systems like your future depends on them — because it does."*
 
 ## 📫 Let's connect
 - [Twitter](https://twitter.com/gzfw__)  
