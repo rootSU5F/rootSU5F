@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/rootSU5F" width="120" style="border-radius: 50%;" />
-</p>
 
 # 👋 Hey, I'm Saeed
 
@@ -60,9 +57,9 @@ Computer Vision · LLMs · RAG · Heuristics + ML hybrids
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootSU5F&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootSU5F&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rootSU5F&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rootSU5F&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -80,7 +77,7 @@ Computer Vision · LLMs · RAG · Heuristics + ML hybrids
 
 - 🐦 [Twitter / X](https://twitter.com/gzfw__)  
 - 💼 [LinkedIn](https://linkedin.com/in/saeed-al-asiri)  
-- ✉️ Email: *(add here)*  
+- ✉️ Email: Saeedbinmoha20@gmail.com  
 - 🧠 Research & AI collabs: always open  
 
 ---
