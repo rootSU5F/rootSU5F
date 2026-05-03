@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/rootSU5F" width="120" style="border-radius: 50%;" />
+</p>
+
 # 👋 Hey, I'm Saeed
 
 🎓 Final-year Computer Science student — King Khalid University  
@@ -54,10 +58,13 @@ Computer Vision · LLMs · RAG · Heuristics + ML hybrids
 ---
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootSU5F&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootSU5F&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rootSU5F&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootSU5F&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🏍️ Fun Facts
@@ -73,7 +80,7 @@ Computer Vision · LLMs · RAG · Heuristics + ML hybrids
 
 - 🐦 [Twitter / X](https://twitter.com/gzfw__)  
 - 💼 [LinkedIn](https://linkedin.com/in/saeed-al-asiri)  
-- ✉️ Email: Saeedbinmoha20@gmail.com  
+- ✉️ Email: *(add here)*  
 - 🧠 Research & AI collabs: always open  
 
 ---
