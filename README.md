@@ -54,10 +54,10 @@ Computer Vision · LLMs · RAG · Heuristics + ML hybrids
 ---
 
 ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootSU5F&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootSU5F&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootSU5F&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootSU5F&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 🏍️ Fun Facts
